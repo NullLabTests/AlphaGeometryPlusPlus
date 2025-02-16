@@ -4,7 +4,7 @@ import logging
 import os
 import time
 
-from alphageometry import ddar  # Existing DDAR module
+import ddar  # Existing DDAR module
 from alphageometry import graph
 from alphageometry import lm_inference  # LM inference module
 from alphageometry import pretty
