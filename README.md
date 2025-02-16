@@ -9,15 +9,15 @@ WARNING THIS IS A WORK IN PROGRESS: I will return to this when I can.
 AlphaGeometry++ builds upon DeepMind's AlphaGeometry by integrating a neural language model with a symbolic deduction engine and a Warren Abstract Machine (WAM) for efficient logical inference. The project aims to solve complex geometry problems with improved adaptability and explainability.
 
 
-
+<br><br><br>
 <div style="margin-top: 50px; margin-bottom: 30px;" align="center">
   <img src="https://i.imgur.com/4QarhUR.png" alt="Example Visual Representations of Data" />
   <br>
   <i>This image showcases an example visual representation of data, illustrating how data can be effectively communicated through imagery.</i>
 </div>
+<br><br>
 
-
-
+<marquee> Warning: Under active dev! </marquee>
 
 ## Key Features
 
