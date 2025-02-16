@@ -10,20 +10,12 @@ AlphaGeometry++ builds upon DeepMind's AlphaGeometry by integrating a neural lan
 
 
 
-
-<!-- 5 -->
-
-
-
-
-
-<div align="center">
+<div style="margin-top: 50px; margin-bottom: 30px;" align="center">
   <img src="https://i.imgur.com/4QarhUR.png" alt="Example Visual Representations of Data" />
   <br>
   <i>This image showcases an example visual representation of data, illustrating how data can be effectively communicated through imagery.</i>
 </div>
 
-<!-- 3 -->
 
 
 
