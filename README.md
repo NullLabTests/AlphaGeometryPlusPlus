@@ -2,6 +2,8 @@
 
 **AlphaGeometry++**: A Hybrid Neuro-Symbolic Geometry Solver with Enhanced Adaptability and Explainability
 
+WARNING THIS IS A WORK IN PROGRESS: I will return to this when I can.
+
 ## Overview
 
 AlphaGeometry++ builds upon DeepMind's AlphaGeometry by integrating a neural language model with a symbolic deduction engine and a Warren Abstract Machine (WAM) for efficient logical inference. The project aims to solve complex geometry problems with improved adaptability and explainability.
