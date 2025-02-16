@@ -11,6 +11,9 @@ AlphaGeometry++ builds upon DeepMind's AlphaGeometry by integrating a neural lan
 
 
 
+<!-- 5 -->
+
+
 
 
 
@@ -20,10 +23,7 @@ AlphaGeometry++ builds upon DeepMind's AlphaGeometry by integrating a neural lan
   <i>This image showcases an example visual representation of data, illustrating how data can be effectively communicated through imagery.</i>
 </div>
 
-
-
-
-
+<!-- 3 -->
 
 
 
